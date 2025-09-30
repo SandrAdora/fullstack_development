@@ -20,11 +20,6 @@ export default function WorkoutCard(props)
             <div className="plan-card-header">
                 <h2><b>{type}</b></h2>
             </div>
-
-
-
-
-
             
             <div className="workout-grid">
                 <div className="exercise-name">
