@@ -44,7 +44,7 @@ export default function Grid() {
                                 <p>Day {dayNum}</p>
                             </div>
                             {isLocked ? (
-                                <i class="fa-solid fa-lock"></i>
+                                <i className="fa-solid fa-lock"></i>
                             ) : (
                                 workoutIndex % 3 === 0 ?  (
                                     // push day

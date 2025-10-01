@@ -8,9 +8,9 @@ export default function Hero()
                 <li>Get fit 🏋️‍♀️ 🏋️‍♂️, healthy, strong  and schredded 💪 </li>
                 <li>Learn more about gym, training and technique ⭐</li>
                 <li>Become a lifetime gym bro 💛 </li>
-                <dev>
+                <div>
                     <b><i>Follow a simple Program with guaranteed results</i></b>
-                </dev>
+                </div>
             </ol>
 
             <h3>The Rules</h3>
