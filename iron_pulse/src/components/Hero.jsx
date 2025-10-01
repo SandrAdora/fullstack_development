@@ -4,7 +4,6 @@ export default function Hero()
         <>
             <h5>Complete this training programm if you want to ....</h5>
             <ol className="benefits-list">
-    
                 <li>Get fit 🏋️‍♀️ 🏋️‍♂️, healthy, strong  and schredded 💪 </li>
                 <li>Learn more about gym, training and technique ⭐</li>
                 <li>Become a lifetime gym bro 💛 </li>
@@ -12,7 +11,6 @@ export default function Hero()
                     <b><i>Follow a simple Program with guaranteed results</i></b>
                 </div>
             </ol>
-
             <h3>The Rules</h3>
             <p>To complete this Program, You <b>MUST </b>
             follow these 3 simple rules: </p>
