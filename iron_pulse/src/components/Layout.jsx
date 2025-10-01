@@ -4,7 +4,7 @@ export default function Layout(props)
     const {children} =  props
     const header = (
         <header>
-            <h1 className="text-gradient">The Irone Pulse Brogram with Lorand</h1>
+            <h1 className="text-gradient">The Iron Pulse Program with Lorand</h1>
             <p><strong>The 30 Simple Workouts Program</strong></p>
 
         </header>
@@ -12,9 +12,9 @@ export default function Layout(props)
     const footer = (
         <footer>
             <p>Built by <a href="https://www.SandrAdora.netlify.app" 
-            target="_blank">Sandra</a>  <br />Styled with  
+            target="_blank"> Goodmorning Midnight Mirador</a><br />Styled with  
             <a href="https://www.fantacss.smoljames.com" 
-            target="_blank"></a> fantacss </p>
+            target="_blank"> Fantacss </a></p>
         </footer>
     )
     return (

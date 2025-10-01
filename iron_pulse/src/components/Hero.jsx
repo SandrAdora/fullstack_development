@@ -37,7 +37,7 @@ export default function Hero()
                 The Training plan
             </h3>
             <p>This training plan uses a structur known as the <b>Bro Split</b>, and follows this rotation ⬇️</p>
-            <p><b><i>Push &rarr; Pull &rarr; Repeat &rarr;</i></b></p>
+            <p><b><i>Push &rarr; Pull &rarr; Legs &rarr; Repeat</i></b></p>
             <p>Complete your workouts below and track your progress ✅</p>
         </>
     )
